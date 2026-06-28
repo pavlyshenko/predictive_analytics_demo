@@ -1,1 +1,1 @@
-*** Pridictive Analytics Demo Notebooks
+*Pridictive Analytics Demo Notebooks
