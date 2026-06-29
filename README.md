@@ -1,9 +1,5 @@
 Pridictive Analytics Demo Notebooks
 
-Links:
-
-GitHub repository: https://github.com/pavlyshenko/predictive_analytics_demo
-
 Papers:
 1. Pavlyshenko B. M. Machine-learning models for sales time series forecasting // Data.
 2019. Vol. 4, No 1. P. 15.
@@ -72,9 +68,9 @@ Link: https://huggingface.co/bpavlsh/Mistral-Fake-News-Detection
 multilevel analytics.
 Link: https://huggingface.co/bpavlsh/Mistral-crypto-news
 
-Other links:
-arXiv e-prints: https://arxiv.org/search/?query=pavlyshenko&searchtype=all
-Kaggle profile: https://www.kaggle.com/bpavlyshenko
-Kaggle competition 1st place solution: http://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23863/1-place-solution-of-the-slippery-appraisals-team
-LinkedIn profile: https://www.linkedin.com/in/bpavlyshenko
+Links:
+1. arXiv e-prints: https://arxiv.org/search/?query=pavlyshenko&searchtype=all
+2. Kaggle profile: https://www.kaggle.com/bpavlyshenko
+3. Kaggle competition 1st place solution: http://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23863/1-place-solution-of-the-slippery-appraisals-team
+4. LinkedIn profile: https://www.linkedin.com/in/bpavlyshenko
 
